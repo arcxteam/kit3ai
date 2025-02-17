@@ -44,7 +44,7 @@ pkg install python python-pip git -y
 
 **1. Clone this repository**
 ```bash
-git@github.com:arcxteam/kit3ai.git
+https://github.com/arcxteam/kit3ai.git
 cd kit3ai
 ```
 
