@@ -69,15 +69,15 @@ pip install -r requirements.txt
 pip3 install -r requirements.txt
 ```
 
-**5. Run at first time**
+**5. Run at manual first time**
 ```bash
-python3 main.py
+python3 kiteai.py
 ```
 - So, close the logs with command `CTRL+C`
 
-**6.  Run at second time with PM2**
+**6.  Run at auto second time with PM2**
 ```bash
-pm2 start main.py --name kiteai-bot
+pm2 start kiteai.py --name kiteai-bot
 ```
 ---
 
